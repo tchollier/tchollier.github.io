@@ -8,3 +8,5 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/  
